@@ -310,12 +310,5 @@ Screenshots (replace with your own):
 - Import: `import students.csv`
 - Export: `export all.csv`
 
-## Screenshots
-- See `screenshots/` folder for setup, run, and output
-
-## Demo Video
-- [YouTube/Drive link here]
-
----
 Academic Integrity: All work is original and for educational purposes only.
 # Programming-in-Java---Project-1 
